@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kseniia
 - 👀 I’m interested in Analytics, passionate about data.
-- 🌱 I’m currently learning Python for Data Analytics
+- 🌱 Working with Python and SQL for Data Analytics
 - 📫 How to reach me - iamresong@gmail.com
 
 <!---
