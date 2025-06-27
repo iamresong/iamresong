@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Kseniia
-- 👀 I’m interested in Analytics, passionate about data.
-- 🌱 Working with Python and SQL for Data Analytics
-- 📫 How to reach me - iamresong@gmail.com
+- 🔍 Ex-Data Analyst turned UX/UI Designer
+- 🌱 Currently learning Swift to become an iOS Developer
+- 💡 Passionate about data, design, and building meaningful mobile experiences
+- 🛠️ Skilled in Python, SQL, Figma – bridging data, design, and code
+- 📫 Reach me at: iamresong@gmail.com
 
 <!---
 iamresong/iamresong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
